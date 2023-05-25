@@ -1,5 +1,5 @@
 # Investment-Risk-Position
-This template demonstrates my analytical abilities and understanding of investment risk.
+This template demonstrates analytical abilities and understanding of investment risk.
 
 # The template contains the following files:
 01: Python Code
